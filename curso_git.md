@@ -44,3 +44,19 @@ _Área de desenvolvimento → **git add** → Área de staging → **git commit*
 
 - ``git commit -m "mensagem"``: Use depois do git add para salvar permanentemente as mudanças que você preparou no histórico do projeto, com uma mensagem explicando o que foi feito.
 
+### Como interpretar os resultados de `git status`?
+
+1. **Changes to be committed (Geralmente Verde)**:
+- O que é: Mudanças que você já preparou com git add.
+- O que fazer: Elas serão salvas no seu próximo git commit.
+
+2. **Changes not staged for commit (Geralmente Vermelho)**:
+- O que é: Arquivos que o Git conhece, mas que você modificou (ou deletou) e ainda não usou git add.
+- O que fazer: Decida se quer incluí-los (com git add) ou descartar as mudanças (com git restore).
+
+3. **Untracked files (Geralmente Vermelho)**:
+- O que é: Arquivos novos que o Git nunca viu antes.
+- O que fazer: Use git add <arquivo> para começar a rastreá-los.
+
+4. **nothing to commit, working tree clean**:
+- O que é: O estado perfeito. Tudo está salvo e não há mudanças pendentes.
