@@ -30,5 +30,5 @@ O GitHub é uma plataforma que serve para armazenar seus repositórios na nuvem,
 
 É onde o Git salva o histórico de versões do seu projeto no seu computador.
 
-### Resumindo
-Área de desenvolvimento → **git add** → Área de staging → **git commit** → Repositório local
+### **Resumindo**
+_Área de desenvolvimento → **git add** → Área de staging → **git commit** → Repositório local_
