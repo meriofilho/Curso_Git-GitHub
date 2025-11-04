@@ -1,7 +1,7 @@
 # Curso de Git/Git Hub
 
 ## Descrição do projeto
-Este material está sendo elaborado no minicurso de Git e GitHub ofertado pela Elixir durante o III Natal Bioinformatics Forum, em Natal/RN, nos dias 03 e 04 de novembro de 2025.
+Este material foi elaborado no minicurso de Git e GitHub ofertado pela Elixir durante o III Natal Bioinformatics Forum, em Natal/RN, nos dias 03 e 04 de novembro de 2025.
 
 ## Conteúdo do projeto
 Aqui temos dois arquivos principais:
