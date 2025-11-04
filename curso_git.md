@@ -62,3 +62,5 @@ _Área de desenvolvimento → **git add** → Área de staging → **git commit*
 - O que é: O estado perfeito. Tudo está salvo e não há mudanças pendentes.
 
 Este será o conflito
+
+curso de git
