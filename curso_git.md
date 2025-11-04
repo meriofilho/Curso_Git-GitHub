@@ -61,4 +61,4 @@ _Área de desenvolvimento → **git add** → Área de staging → **git commit*
 4. **nothing to commit, working tree clean**:
 - O que é: O estado perfeito. Tudo está salvo e não há mudanças pendentes.
 
-Oi
+kkk
