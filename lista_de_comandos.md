@@ -16,6 +16,8 @@
 
 `git status` # Ele te diz exatamente o estado atual de tudo e em quais áreas conceituais os meus arquivos estão.
 
+`git log` # Mostra o histórico dos comits de um repositório
+
 ## Rotina *não tão* básica assim...
 1. Situação: Atualizei meus arquivos no repositório local e fiz o backup no GitHub
 - Salvei este passo (`git add "arquivo.md` > `git commit -m "mensagem"` > `git push`
